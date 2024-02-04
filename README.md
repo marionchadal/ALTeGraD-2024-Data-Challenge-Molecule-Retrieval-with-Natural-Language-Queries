@@ -7,7 +7,9 @@ To handle this challenge, we chose Graph Isomorphism Network (GIN) for our graph
 # References
 Aaron van den Oord, Yazhe Li, and Oriol Vinyals. “Representation Learning with Con-
 trastive Predictive Coding”. In: arXiv:1807.03748 (2018)
+
 Jacob Devlin et al. “Bert: Pre-training of deep bidirectional transformers for language
 understanding”. In: arXiv preprint arXiv:1810.04805 (2018)
+
 Keyulu Xu et al. “How powerful are graph neural networks?” In: arXiv preprint arXiv:1810.00826
 (2018)
