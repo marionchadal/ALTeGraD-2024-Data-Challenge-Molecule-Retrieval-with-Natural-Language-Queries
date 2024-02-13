@@ -1,7 +1,7 @@
 from dataloader import GraphTextDataset, GraphDataset, TextDataset
 from torch_geometric.data import DataLoader
 from torch.utils.data import DataLoader as TorchDataLoader
-from Model_Chadal_Marion_Savini_Thomas import Model
+from Model_GIN import Model
 import numpy as np
 from transformers import AutoTokenizer
 import torch
